@@ -1,69 +1,53 @@
-📂 Python Mini Projects
+# 🐍 Python Mini Projects
 
-A collection of simple and beginner-friendly Python projects — perfect for learning Python basics, improving logic, and building hands-on coding experience.
+A collection of beginner-to-intermediate Python projects built 
+during MCA Cybersecurity coursework at UPES Dehradun.
 
-Each project is inside its own folder with clean code and is easy to run.
-
----
-
- 📁 Projects Included
-
- 1️⃣ 🔐 Password Generator 
-
-A simple tool that generates strong and random passwords.
-Features:
-
-* Choose password length
-* Includes letters, numbers, and symbols
-* Generates secure passwords instantly
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=flat-square)
+![CLI](https://img.shields.io/badge/CLI-Tools-green?style=flat-square)
 
 ---
 
- 2️⃣ 🧭 Simple Text-Based Adventure Game
+## 📁 Projects Included
 
-A fun command-line adventure game where your choices decide the outcome.
-Features:
-
-* Story-based gameplay
-* Multiple choices
-* Win or lose based on decisions
-
----
-
- 3️⃣ ❌⭕ Tic-Tac-Toe Game (2-Player)
-
-A classic Tic-Tac-Toe game playable in the terminal.
-Features:
-
-* 2 player mode
-* Checks for win, draw, and invalid moves
-* Simple grid-based board
+| Project | Description | Tech |
+|---|---|---|
+| 🔐 Password Generator | Generates strong random passwords with custom length | Python |
+| 🎮 Tic-Tac-Toe Game | 2-player GUI game with colorful interface | Python, Tkinter |
+| 🌲 Text Adventure Game | Interactive story-based CLI game with multiple endings | Python |
+| ✅ To-Do List App | Desktop task manager with add/remove/clear features | Python, Tkinter |
 
 ---
 
-4️⃣ 📝 To-Do List (Console App)
-
-A basic to-do list app you can use in the terminal.
-Features:
-
-* Add tasks
-* View tasks
-* Mark tasks as completed
-* Delete tasks
-
----
-
- ▶️ How to Run Any Project
-
-Step 1 — Install Python
-
-Make sure Python is installed: python --version
-
-Step 2 — Open Any Project Folder
-
-Example: cd Password-Generator
-
-Step 3 — Run the Python file 
+## 🚀 How to Run Any Project
 
 ```bash
-python main.py
+# Clone the repo
+git clone https://github.com/Utsav0903/Projects.git
+cd Projects/Python-Mini-Projects
+
+# Navigate to any project folder
+cd Password\ Generator
+
+# Run the script
+python PasswordGenerator.py
+```
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.x
+- Tkinter (comes pre-installed with Python)
+- No external libraries needed
+
+---
+
+## 👨‍💻 Author
+
+**Utsav Porwal**
+MCA Cybersecurity — UPES Dehradun
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-porwal-897888321/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Utsav0903)
